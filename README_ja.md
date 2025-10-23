@@ -17,19 +17,19 @@
 
 ## 演習
 
-|   インデックス | 名前                                            | 難易度   | 練習                                                                                                                            |
-|----------------|-------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 🆓 Scikit-learn のインストールとセットアップ | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sklearn-scikit-learn-installation-and-setup-596490'>ラボを開始</a>       |
-|              2 | 📖 🆓 Scikit-learn データ読み込みと探索         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sklearn-scikit-learn-data-loading-and-exploration-596488'>ラボを開始</a> |
-|              3 | 📖 🆓 Scikit-learn データ前処理                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sklearn-scikit-learn-data-preprocessing-596489'>ラボを開始</a>           |
-|              4 | 📖 🆓 Scikit-learn 線形回帰                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sklearn-scikit-learn-linear-regression-596492'>ラボを開始</a>            |
-|              5 | 📖 🆓 Scikit-learn KNN 分類                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sklearn-scikit-learn-knn-classification-596491'>ラボを開始</a>           |
-|              6 | 📖 🆓 Scikit-learn モデル評価                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sklearn-scikit-learn-model-evaluation-596493'>ラボを開始</a>             |
-|              7 | 📖 🆓 Scikit-learn クロスバリデーション         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sklearn-scikit-learn-cross-validation-596487'>ラボを開始</a>             |
+|   インデックス | 名前                                            | 難易度   | 練習                                                                                                                                                         |
+|----------------|-------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|              1 | 🧩 🆓 Scikit-learn のインストールとセットアップ | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sklearn-scikit-learn-installation-and-setup-596490?course=scikit-learn-for-beginners'>ラボを開始</a>       |
+|              2 | 🧩 🆓 Scikit-learn データ読み込みと探索         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sklearn-scikit-learn-data-loading-and-exploration-596488?course=scikit-learn-for-beginners'>ラボを開始</a> |
+|              3 | 🧩 🆓 Scikit-learn データ前処理                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sklearn-scikit-learn-data-preprocessing-596489?course=scikit-learn-for-beginners'>ラボを開始</a>           |
+|              4 | 🧩 🆓 Scikit-learn 線形回帰                     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sklearn-scikit-learn-linear-regression-596492?course=scikit-learn-for-beginners'>ラボを開始</a>            |
+|              5 | 🧩 🆓 Scikit-learn KNN 分類                     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sklearn-scikit-learn-knn-classification-596491?course=scikit-learn-for-beginners'>ラボを開始</a>           |
+|              6 | 🧩 🆓 Scikit-learn モデル評価                   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sklearn-scikit-learn-model-evaluation-596493?course=scikit-learn-for-beginners'>ラボを開始</a>             |
+|              7 | 🧩 🆓 Scikit-learn クロスバリデーション         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sklearn-scikit-learn-cross-validation-596487?course=scikit-learn-for-beginners'>ラボを開始</a>             |
 
 ## LabEx について
 
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、LabEx は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
+[LabEx](https://labex.io) は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、[LabEx](https://labex.io) は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
 
 ## その他
 
