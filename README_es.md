@@ -17,19 +17,19 @@ Este curso completo cubre los conceptos fundamentales y las técnicas prácticas
 
 ## Ejercicios
 
-|   Índice | Nombre                                             | Dificultad   | Práctica                                                                                                                                 |
-|----------|----------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 🆓 Instalación y Configuración de Scikit-learn  | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sklearn-scikit-learn-installation-and-setup-596490'>Iniciar Laboratorio</a>       |
-|        2 | 📖 🆓 Carga y Exploración de Datos en Scikit-learn | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sklearn-scikit-learn-data-loading-and-exploration-596488'>Iniciar Laboratorio</a> |
-|        3 | 📖 🆓 Preprocesamiento de Datos con Scikit-learn   | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sklearn-scikit-learn-data-preprocessing-596489'>Iniciar Laboratorio</a>           |
-|        4 | 📖 🆓 Regresión Lineal con Scikit-learn            | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sklearn-scikit-learn-linear-regression-596492'>Iniciar Laboratorio</a>            |
-|        5 | 📖 🆓 Clasificación KNN con Scikit-learn           | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sklearn-scikit-learn-knn-classification-596491'>Iniciar Laboratorio</a>           |
-|        6 | 📖 🆓 Evaluación de Modelos Scikit-learn           | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sklearn-scikit-learn-model-evaluation-596493'>Iniciar Laboratorio</a>             |
-|        7 | 📖 🆓 Validación Cruzada con Scikit-learn          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sklearn-scikit-learn-cross-validation-596487'>Iniciar Laboratorio</a>             |
+|   Índice | Nombre                                             | Dificultad   | Práctica                                                                                                                                                              |
+|----------|----------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🧩 🆓 Instalación y Configuración de Scikit-learn  | Principiante | <a target='_blank' href='https://labex.io/es/labs/sklearn-scikit-learn-installation-and-setup-596490?course=scikit-learn-for-beginners'>Iniciar Laboratorio</a>       |
+|        2 | 🧩 🆓 Carga y Exploración de Datos en Scikit-learn | Principiante | <a target='_blank' href='https://labex.io/es/labs/sklearn-scikit-learn-data-loading-and-exploration-596488?course=scikit-learn-for-beginners'>Iniciar Laboratorio</a> |
+|        3 | 🧩 🆓 Preprocesamiento de Datos con Scikit-learn   | Principiante | <a target='_blank' href='https://labex.io/es/labs/sklearn-scikit-learn-data-preprocessing-596489?course=scikit-learn-for-beginners'>Iniciar Laboratorio</a>           |
+|        4 | 🧩 🆓 Regresión Lineal con Scikit-learn            | Principiante | <a target='_blank' href='https://labex.io/es/labs/sklearn-scikit-learn-linear-regression-596492?course=scikit-learn-for-beginners'>Iniciar Laboratorio</a>            |
+|        5 | 🧩 🆓 Clasificación KNN con Scikit-learn           | Principiante | <a target='_blank' href='https://labex.io/es/labs/sklearn-scikit-learn-knn-classification-596491?course=scikit-learn-for-beginners'>Iniciar Laboratorio</a>           |
+|        6 | 🧩 🆓 Evaluación de Modelos Scikit-learn           | Principiante | <a target='_blank' href='https://labex.io/es/labs/sklearn-scikit-learn-model-evaluation-596493?course=scikit-learn-for-beginners'>Iniciar Laboratorio</a>             |
+|        7 | 🧩 🆓 Validación Cruzada con Scikit-learn          | Principiante | <a target='_blank' href='https://labex.io/es/labs/sklearn-scikit-learn-cross-validation-596487?course=scikit-learn-for-beginners'>Iniciar Laboratorio</a>             |
 
 ## Acerca de LabEx
 
-LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
+[LabEx](https://labex.io) es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 ## Más
 
