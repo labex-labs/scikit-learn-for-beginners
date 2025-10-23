@@ -17,19 +17,19 @@ This comprehensive course covers the fundamental concepts and practical techniqu
 
 ## Exercises
 
-|   Index | Name                                            | Difficulty   | Practice                                                                                                                    |
-|---------|-------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 🆓 Scikit-learn Installation and Setup       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sklearn-scikit-learn-installation-and-setup-596490'>Start Lab</a>       |
-|       2 | 📖 🆓 Scikit-learn Data Loading and Exploration | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sklearn-scikit-learn-data-loading-and-exploration-596488'>Start Lab</a> |
-|       3 | 📖 🆓 Scikit-learn Data Preprocessing           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sklearn-scikit-learn-data-preprocessing-596489'>Start Lab</a>           |
-|       4 | 📖 🆓 Scikit-learn Linear Regression            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sklearn-scikit-learn-linear-regression-596492'>Start Lab</a>            |
-|       5 | 📖 🆓 Scikit-learn KNN Classification           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sklearn-scikit-learn-knn-classification-596491'>Start Lab</a>           |
-|       6 | 📖 🆓 Scikit-learn Model Evaluation             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sklearn-scikit-learn-model-evaluation-596493'>Start Lab</a>             |
-|       7 | 📖 🆓 Scikit-learn Cross-Validation             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sklearn-scikit-learn-cross-validation-596487'>Start Lab</a>             |
+|   Index | Name                                            | Difficulty   | Practice                                                                                                                                                 |
+|---------|-------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🧩 🆓 Scikit-learn Installation and Setup       | Beginner     | <a target='_blank' href='https://labex.io/labs/sklearn-scikit-learn-installation-and-setup-596490?course=scikit-learn-for-beginners'>Start Lab</a>       |
+|       2 | 🧩 🆓 Scikit-learn Data Loading and Exploration | Beginner     | <a target='_blank' href='https://labex.io/labs/sklearn-scikit-learn-data-loading-and-exploration-596488?course=scikit-learn-for-beginners'>Start Lab</a> |
+|       3 | 🧩 🆓 Scikit-learn Data Preprocessing           | Beginner     | <a target='_blank' href='https://labex.io/labs/sklearn-scikit-learn-data-preprocessing-596489?course=scikit-learn-for-beginners'>Start Lab</a>           |
+|       4 | 🧩 🆓 Scikit-learn Linear Regression            | Beginner     | <a target='_blank' href='https://labex.io/labs/sklearn-scikit-learn-linear-regression-596492?course=scikit-learn-for-beginners'>Start Lab</a>            |
+|       5 | 🧩 🆓 Scikit-learn KNN Classification           | Beginner     | <a target='_blank' href='https://labex.io/labs/sklearn-scikit-learn-knn-classification-596491?course=scikit-learn-for-beginners'>Start Lab</a>           |
+|       6 | 🧩 🆓 Scikit-learn Model Evaluation             | Beginner     | <a target='_blank' href='https://labex.io/labs/sklearn-scikit-learn-model-evaluation-596493?course=scikit-learn-for-beginners'>Start Lab</a>             |
+|       7 | 🧩 🆓 Scikit-learn Cross-Validation             | Beginner     | <a target='_blank' href='https://labex.io/labs/sklearn-scikit-learn-cross-validation-596487?course=scikit-learn-for-beginners'>Start Lab</a>             |
 
 ## About LabEx
 
-LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the Skill Tree learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, LabEx offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
+[LabEx](https://labex.io) is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the [Skill Tree](https://labex.io/learn) learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, [LabEx](https://labex.io) offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
 
 ## More
 
