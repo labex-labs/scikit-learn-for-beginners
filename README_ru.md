@@ -17,19 +17,19 @@
 
 ## Упражнения
 
-|   Индекс | Название                                              | Сложность   | Практика                                                                                                                                |
-|----------|-------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 🆓 Установка и настройка Scikit-learn              | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/sklearn-scikit-learn-installation-and-setup-596490'>Начать Лабораторию</a>       |
-|        2 | 📖 🆓 Загрузка и исследование данных в Scikit-learn   | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/sklearn-scikit-learn-data-loading-and-exploration-596488'>Начать Лабораторию</a> |
-|        3 | 📖 🆓 Предварительная обработка данных в Scikit-learn | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/sklearn-scikit-learn-data-preprocessing-596489'>Начать Лабораторию</a>           |
-|        4 | 📖 🆓 Линейная регрессия в Scikit-learn               | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/sklearn-scikit-learn-linear-regression-596492'>Начать Лабораторию</a>            |
-|        5 | 📖 🆓 Классификация KNN с помощью Scikit-learn        | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/sklearn-scikit-learn-knn-classification-596491'>Начать Лабораторию</a>           |
-|        6 | 📖 🆓 Оценка моделей Scikit-learn                     | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/sklearn-scikit-learn-model-evaluation-596493'>Начать Лабораторию</a>             |
-|        7 | 📖 🆓 Кросс-валидация в Scikit-learn                  | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/sklearn-scikit-learn-cross-validation-596487'>Начать Лабораторию</a>             |
+|   Индекс | Название                                              | Сложность   | Практика                                                                                                                                                             |
+|----------|-------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🧩 🆓 Установка и настройка Scikit-learn              | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/sklearn-scikit-learn-installation-and-setup-596490?course=scikit-learn-for-beginners'>Начать Лабораторию</a>       |
+|        2 | 🧩 🆓 Загрузка и исследование данных в Scikit-learn   | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/sklearn-scikit-learn-data-loading-and-exploration-596488?course=scikit-learn-for-beginners'>Начать Лабораторию</a> |
+|        3 | 🧩 🆓 Предварительная обработка данных в Scikit-learn | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/sklearn-scikit-learn-data-preprocessing-596489?course=scikit-learn-for-beginners'>Начать Лабораторию</a>           |
+|        4 | 🧩 🆓 Линейная регрессия в Scikit-learn               | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/sklearn-scikit-learn-linear-regression-596492?course=scikit-learn-for-beginners'>Начать Лабораторию</a>            |
+|        5 | 🧩 🆓 Классификация KNN с помощью Scikit-learn        | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/sklearn-scikit-learn-knn-classification-596491?course=scikit-learn-for-beginners'>Начать Лабораторию</a>           |
+|        6 | 🧩 🆓 Оценка моделей Scikit-learn                     | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/sklearn-scikit-learn-model-evaluation-596493?course=scikit-learn-for-beginners'>Начать Лабораторию</a>             |
+|        7 | 🧩 🆓 Кросс-валидация в Scikit-learn                  | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/sklearn-scikit-learn-cross-validation-596487?course=scikit-learn-for-beginners'>Начать Лабораторию</a>             |
 
 ## О LabEx
 
-LabEx - это интерактивная практическая обучающая платформа, посвященная программированию и технологиям. Она объединяет лаборатории, ИИ-помощь и виртуальные машины для обеспечения практического обучения без видео. Со строгим подходом 'Учись делая', интерактивными онлайн-средами в браузере с автоматизированными пошаговыми проверками, структурированной организацией контента с системой на основе Дерева Навыков, и растущим учебным ресурсом из 30 Деревьев Навыков и более 6,000 Лабораторий, LabEx предлагает всестороннее практическое образование. Платформа включает ассистента обучения Labby, построенного на последних моделях ИИ, обеспечивающего разговорный опыт обучения.
+[LabEx](https://labex.io) - это интерактивная практическая обучающая платформа, посвященная программированию и технологиям. Она объединяет лаборатории, ИИ-помощь и виртуальные машины для обеспечения практического обучения без видео. Со строгим подходом 'Учись делая', интерактивными онлайн-средами в браузере с автоматизированными пошаговыми проверками, структурированной организацией контента с системой на основе Дерева Навыков, и растущим учебным ресурсом из 30 Деревьев Навыков и более 6,000 Лабораторий, [LabEx](https://labex.io) предлагает всестороннее практическое образование. Платформа включает ассистента обучения Labby, построенного на последних моделях ИИ, обеспечивающего разговорный опыт обучения.
 
 ## Больше
 
